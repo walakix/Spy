@@ -1,0 +1,17 @@
+* {
+	padding:0px;
+	margin:0px;
+}
+
+h1 { 
+    text-align: center;
+}
+
+
+body {
+    background-color:lightblue;
+	padding:5px;
+	background-image: url("images/spy.jpg");
+	opacity: 0.3;
+}
+
